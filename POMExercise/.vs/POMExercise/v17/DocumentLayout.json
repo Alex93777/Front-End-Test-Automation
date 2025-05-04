@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|d:\\qa\\front-end test automation\\front-end test automation\\pomexercise\\tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|solutionrelative:tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|d:\\qa\\front-end test automation\\front-end test automation\\pomexercise\\tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|solutionrelative:tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|d:\\qa\\front-end test automation\\front-end test automation\\pomexercise\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|solutionrelative:tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|d:\\qa\\front-end test automation\\front-end test automation\\pomexercise\\tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|solutionrelative:tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|d:\\qa\\front-end test automation\\front-end test automation\\pomexercise\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|solutionrelative:pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|d:\\qa\\front-end test automation\\front-end test automation\\pomexercise\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|solutionrelative:pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|d:\\qa\\front-end test automation\\front-end test automation\\pomexercise\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|d:\\qa\\front-end test automation\\front-end test automation\\pomexercise\\tests\\hiddenmenutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779CC260-6B8E-46B8-8EAE-DA1CD2C9D87E}|POMExercise.csproj|solutionrelative:tests\\hiddenmenutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HiddenMenuTests.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\HiddenMenuTests.cs",
+              "RelativeDocumentMoniker": "Tests\\HiddenMenuTests.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\HiddenMenuTests.cs",
+              "RelativeToolTip": "Tests\\HiddenMenuTests.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:54:46.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CheckoutTests.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\CheckoutTests.cs",
+              "RelativeToolTip": "Tests\\CheckoutTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:27:38.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CartPage.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Pages\\CartPage.cs",
+              "RelativeToolTip": "Pages\\CartPage.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:24:30.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartTests.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\CartTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CartTests.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\CartTests.cs",
+              "RelativeToolTip": "Tests\\CartTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:39:35.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Pages\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "Pages\\InventoryPage.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Pages\\InventoryPage.cs",
+              "RelativeToolTip": "Pages\\InventoryPage.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwBkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:52:53.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryTests.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\InventoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\InventoryTests.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\InventoryTests.cs",
+              "RelativeToolTip": "Tests\\InventoryTests.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:46:58.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "Tests\\BaseTest.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "Tests\\BaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:49:06.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginTests.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\POMExercise\\Tests\\LoginTests.cs",
+              "RelativeToolTip": "Tests\\LoginTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:10:02.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
