@@ -1,0 +1,8 @@
+current handle 579FE7DB5B3921145200038E6D9F6E05page content: <html><head>
+  <title>New Window</title>
+</head>
+
+<body><div class="example">
+  <h3>New Window</h3>
+</div>
+</body></html>
