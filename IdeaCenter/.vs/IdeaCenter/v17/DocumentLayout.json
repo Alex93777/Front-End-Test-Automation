@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\Exam Preperation 1\\IdeaCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B71C65-5D33-459E-BB1E-91142E882E3F}|IdeaCenter.csproj|d:\\qa\\front-end test automation\\front-end test automation\\exam preperation 1\\ideacenter\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B71C65-5D33-459E-BB1E-91142E882E3F}|IdeaCenter.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B71C65-5D33-459E-BB1E-91142E882E3F}|IdeaCenter.csproj|d:\\qa\\front-end test automation\\front-end test automation\\exam preperation 1\\ideacenter\\tests\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B71C65-5D33-459E-BB1E-91142E882E3F}|IdeaCenter.csproj|solutionrelative:tests\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B71C65-5D33-459E-BB1E-91142E882E3F}|IdeaCenter.csproj|d:\\qa\\front-end test automation\\front-end test automation\\exam preperation 1\\ideacenter\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B71C65-5D33-459E-BB1E-91142E882E3F}|IdeaCenter.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\Exam Preperation 1\\IdeaCenter\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\Exam Preperation 1\\IdeaCenter\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:48:51.354Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdeaCenterTests.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\Exam Preperation 1\\IdeaCenter\\Tests\\IdeaCenterTests.cs",
+              "RelativeDocumentMoniker": "Tests\\IdeaCenterTests.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\Exam Preperation 1\\IdeaCenter\\Tests\\IdeaCenterTests.cs",
+              "RelativeToolTip": "Tests\\IdeaCenterTests.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:51:52.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\Exam Preperation 1\\IdeaCenter\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "Tests\\BaseTest.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\Exam Preperation 1\\IdeaCenter\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "Tests\\BaseTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:42:52.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
