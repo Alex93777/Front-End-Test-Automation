@@ -1,0 +1,602 @@
+{
+  "id": "9c853217-9a42-43b1-9dc5-1a97a6a6a187",
+  "version": "2.0",
+  "name": "HealthAppDemo",
+  "url": "https://katalon-demo-cura.herokuapp.com/",
+  "tests": [{
+    "id": "9a3ffa1e-1043-40ac-85de-7bcd34023bc8",
+    "name": "VerifyFooter",
+    "commands": [{
+      "id": "44311e2b-d8ab-4ab0-9465-0b02d61250fa",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "699d72c5-d9ba-4515-a25c-abf9a9a26b07",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=strong",
+      "targets": [],
+      "value": "CURA Healthcare Service"
+    }, {
+      "id": "6f223695-7de4-4934-b631-3613f70c7f6f",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=p:nth-child(2)",
+      "targets": [],
+      "value": "Atlanta 550 Pharr Road NE Suite 525\\nAtlanta, GA 30305"
+    }, {
+      "id": "ead4d557-0efa-4976-8c02-a483a6612ede",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.list-unstyled > li:nth-child(1)",
+      "targets": [],
+      "value": " (678) 813-1KMS"
+    }, {
+      "id": "3fbb19b6-9309-4a50-91fe-3836300aede9",
+      "comment": "",
+      "command": "verifyText",
+      "target": "linkText=info@katalon.com",
+      "targets": [],
+      "value": "info@katalon.com"
+    }, {
+      "id": "7cf2c045-9862-4a3f-b99d-8b0f3dec4ac4",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=.fa-facebook",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "707fe9f6-a178-4cf8-b020-5fd291371575",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=.fa-twitter",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "dc02a84b-4fef-443e-97fa-71c20b0177a8",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=.fa-dribbble",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "faf4107c-5c9c-4ed1-bda0-2f29e298d30a",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "c8f690d8-2b39-44d5-87dd-a036178a6bc8",
+    "name": "LoginLogout",
+    "commands": [{
+      "id": "a8b4beeb-6b37-421b-a929-f133b65fb82b",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8d0d1d7c-5637-4821-b890-3fb26d7e5378",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "id=btn-make-appointment",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "30d00307-d518-4f96-b7d3-106ac5dfbf71",
+      "comment": "",
+      "command": "verifyText",
+      "target": "id=btn-make-appointment",
+      "targets": [],
+      "value": "Make Appointment"
+    }, {
+      "id": "594994bf-f975-4175-a805-c8a9d8c702b1",
+      "comment": "",
+      "command": "click",
+      "target": "id=btn-make-appointment",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "137cca4e-5aab-44f0-b6cd-ac11139fa297",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=h2",
+      "targets": [],
+      "value": "Login"
+    }, {
+      "id": "11cc678c-cf32-47ae-b7d8-28186bb21ab5",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.lead",
+      "targets": [],
+      "value": "Please login to make appointment."
+    }, {
+      "id": "cf43d718-c4aa-4ecd-baf3-ab2ebc87407e",
+      "comment": "",
+      "command": "type",
+      "target": "id=txt-username",
+      "targets": [],
+      "value": "John Doe"
+    }, {
+      "id": "f53f5d57-f82d-450c-9f53-d81359201866",
+      "comment": "",
+      "command": "type",
+      "target": "id=txt-password",
+      "targets": [],
+      "value": "ThisIsNotAPassword"
+    }, {
+      "id": "8ba1b5fc-5c39-4685-b362-3a36c9cd0f05",
+      "comment": "",
+      "command": "click",
+      "target": "id=btn-login",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "945d6c0b-3c52-4988-8da4-1fa62e41fa67",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=h1",
+      "targets": [],
+      "value": "CURA Healthcare Service"
+    }, {
+      "id": "f3f8f7bb-cb8f-4413-87f9-8570cf05cf8f",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=h2",
+      "targets": [],
+      "value": "Make Appointment"
+    }, {
+      "id": "6f9dc554-9569-4a15-b4bd-b30d7574a405",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-bars",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b4c42536-b932-4756-a227-d762ab4da7ac",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Logout",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5c4ece09-517e-4289-b4cd-50791fdcc9f6",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-bars",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "df59417d-539a-4e9c-85aa-c62c81bc78f7",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "linkText=Login",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "84d99d58-efc6-44b9-a19a-dae4ae6b834d",
+    "name": "BookAnAppointment",
+    "commands": [{
+      "id": "85638f26-f83f-4e9f-a0d7-3b73d590f980",
+      "comment": "",
+      "command": "open",
+      "target": "https://katalon-demo-cura.herokuapp.com/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c972cd89-a175-4093-b731-4476b23a510d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1265x1380",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "16ee9047-5e8c-48cc-914b-6b6a167ab921",
+      "comment": "",
+      "command": "click",
+      "target": "id=btn-make-appointment",
+      "targets": [
+        ["id=btn-make-appointment", "id"],
+        ["linkText=Make Appointment", "linkText"],
+        ["css=#btn-make-appointment", "css:finder"],
+        ["xpath=//a[contains(text(),'Make Appointment')]", "xpath:link"],
+        ["xpath=//a[@id='btn-make-appointment']", "xpath:attributes"],
+        ["xpath=//header[@id='top']/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, './profile.php#login')]", "xpath:href"],
+        ["xpath=//div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Make Appointment')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9b77a474-7aa1-430f-acb5-befc4e75ea55",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h2",
+      "targets": [
+        ["css=h2", "css:finder"],
+        ["xpath=//section[@id='login']/div/div/div/h2", "xpath:idRelative"],
+        ["xpath=//h2", "xpath:position"],
+        ["xpath=//h2[contains(.,'Login')]", "xpath:innerText"]
+      ],
+      "value": "Login"
+    }, {
+      "id": "6a2011f5-9265-41df-9a86-9b169ff9c072",
+      "comment": "",
+      "command": "click",
+      "target": "id=txt-username",
+      "targets": [
+        ["id=txt-username", "id"],
+        ["name=username", "name"],
+        ["css=#txt-username", "css:finder"],
+        ["xpath=//input[@id='txt-username']", "xpath:attributes"],
+        ["xpath=//section[@id='login']/div/div/div[2]/form/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e1739721-98ae-4da7-a321-b1b50f6489f4",
+      "comment": "",
+      "command": "click",
+      "target": "id=txt-username",
+      "targets": [
+        ["id=txt-username", "id"],
+        ["name=username", "name"],
+        ["css=#txt-username", "css:finder"],
+        ["xpath=//input[@id='txt-username']", "xpath:attributes"],
+        ["xpath=//section[@id='login']/div/div/div[2]/form/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cde17ddb-3de0-40f6-a27b-56e4bbbebbcb",
+      "comment": "",
+      "command": "type",
+      "target": "id=txt-username",
+      "targets": [
+        ["id=txt-username", "id"],
+        ["name=username", "name"],
+        ["css=#txt-username", "css:finder"],
+        ["xpath=//input[@id='txt-username']", "xpath:attributes"],
+        ["xpath=//section[@id='login']/div/div/div[2]/form/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "John Doe"
+    }, {
+      "id": "424a6d6c-33b0-4c3b-86da-3c78275148a5",
+      "comment": "",
+      "command": "click",
+      "target": "id=txt-password",
+      "targets": [
+        ["id=txt-password", "id"],
+        ["name=password", "name"],
+        ["css=#txt-password", "css:finder"],
+        ["xpath=//input[@id='txt-password']", "xpath:attributes"],
+        ["xpath=//section[@id='login']/div/div/div[2]/form/div[3]/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "166ea3e2-f2b2-4233-8a35-66db8dd70ca6",
+      "comment": "",
+      "command": "type",
+      "target": "id=txt-password",
+      "targets": [
+        ["id=txt-password", "id"],
+        ["name=password", "name"],
+        ["css=#txt-password", "css:finder"],
+        ["xpath=//input[@id='txt-password']", "xpath:attributes"],
+        ["xpath=//section[@id='login']/div/div/div[2]/form/div[3]/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": "ThisIsNotAPassword"
+    }, {
+      "id": "1d7e91ca-d5db-4a92-9929-5180fb9df68e",
+      "comment": "",
+      "command": "click",
+      "target": "id=btn-login",
+      "targets": [
+        ["id=btn-login", "id"],
+        ["css=#btn-login", "css:finder"],
+        ["xpath=//button[@id='btn-login']", "xpath:attributes"],
+        ["xpath=//section[@id='login']/div/div/div[2]/form/div[4]/div/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Login')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5066a714-4768-42b5-a085-a0ead0b3d784",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h2",
+      "targets": [
+        ["css=h2", "css:finder"],
+        ["xpath=//section[@id='appointment']/div/div/div/h2", "xpath:idRelative"],
+        ["xpath=//h2", "xpath:position"],
+        ["xpath=//h2[contains(.,'Make Appointment')]", "xpath:innerText"]
+      ],
+      "value": "Make Appointment"
+    }, {
+      "id": "6e91af82-2e6a-4ac7-bb50-18bc58b73eec",
+      "comment": "",
+      "command": "click",
+      "target": "id=combo_facility",
+      "targets": [
+        ["id=combo_facility", "id"],
+        ["name=facility", "name"],
+        ["css=#combo_facility", "css:finder"],
+        ["xpath=//select[@id='combo_facility']", "xpath:attributes"],
+        ["xpath=//section[@id='appointment']/div/div/form/div/div/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "97fa6c8c-d610-4c5e-85cf-b6c3530d58d4",
+      "comment": "",
+      "command": "select",
+      "target": "id=combo_facility",
+      "targets": [],
+      "value": "label=Hongkong CURA Healthcare Center"
+    }, {
+      "id": "c6298441-9310-40e6-99d8-fcc46263cee4",
+      "comment": "",
+      "command": "click",
+      "target": "id=radio_program_none",
+      "targets": [
+        ["id=radio_program_none", "id"],
+        ["css=#radio_program_none", "css:finder"],
+        ["xpath=//input[@id='radio_program_none']", "xpath:attributes"],
+        ["xpath=//section[@id='appointment']/div/div/form/div[3]/div/label[3]/input", "xpath:idRelative"],
+        ["xpath=//label[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "151ed7cc-83cd-46e8-80a8-48edc7b6dd44",
+      "comment": "",
+      "command": "click",
+      "target": "id=txt_visit_date",
+      "targets": [
+        ["id=txt_visit_date", "id"],
+        ["name=visit_date", "name"],
+        ["css=#txt_visit_date", "css:finder"],
+        ["xpath=//input[@id='txt_visit_date']", "xpath:attributes"],
+        ["xpath=//section[@id='appointment']/div/div/form/div[4]/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d89131ee-924a-45d6-a4d4-50aa7a63a863",
+      "comment": "",
+      "command": "type",
+      "target": "id=txt_visit_date",
+      "targets": [
+        ["id=txt_visit_date", "id"],
+        ["name=visit_date", "name"],
+        ["css=#txt_visit_date", "css:finder"],
+        ["xpath=//input[@id='txt_visit_date']", "xpath:attributes"],
+        ["xpath=//section[@id='appointment']/div/div/form/div[4]/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "04/04/2024"
+    }, {
+      "id": "5dff2c34-d82f-4d0a-a921-660d757c3f87",
+      "comment": "",
+      "command": "click",
+      "target": "id=txt_comment",
+      "targets": [
+        ["id=txt_comment", "id"],
+        ["name=comment", "name"],
+        ["css=#txt_comment", "css:finder"],
+        ["xpath=//textarea[@id='txt_comment']", "xpath:attributes"],
+        ["xpath=//section[@id='appointment']/div/div/form/div[5]/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a02704ae-a248-4c3f-9f43-2ded5614bf25",
+      "comment": "",
+      "command": "type",
+      "target": "id=txt_comment",
+      "targets": [
+        ["id=txt_comment", "id"],
+        ["name=comment", "name"],
+        ["css=#txt_comment", "css:finder"],
+        ["xpath=//textarea[@id='txt_comment']", "xpath:attributes"],
+        ["xpath=//section[@id='appointment']/div/div/form/div[5]/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "Comment"
+    }, {
+      "id": "d24c351e-98c7-4993-a309-0e58e4030a62",
+      "comment": "",
+      "command": "click",
+      "target": "id=btn-book-appointment",
+      "targets": [
+        ["id=btn-book-appointment", "id"],
+        ["css=#btn-book-appointment", "css:finder"],
+        ["xpath=//button[@id='btn-book-appointment']", "xpath:attributes"],
+        ["xpath=//section[@id='appointment']/div/div/form/div[6]/div/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Book Appointment')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a68cda8b-1d92-49a5-8c27-786120dcc119",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h2",
+      "targets": [
+        ["css=h2", "css:finder"],
+        ["xpath=//section[@id='summary']/div/div/div/h2", "xpath:idRelative"],
+        ["xpath=//h2", "xpath:position"],
+        ["xpath=//h2[contains(.,'Appointment Confirmation')]", "xpath:innerText"]
+      ],
+      "value": "Appointment Confirmation"
+    }, {
+      "id": "9ab97a1c-970d-4d23-9fa8-c767ffb61b8d",
+      "comment": "",
+      "command": "assertText",
+      "target": "id=facility",
+      "targets": [
+        ["id=facility", "id"],
+        ["css=#facility", "css:finder"],
+        ["xpath=//p[@id='facility']", "xpath:attributes"],
+        ["xpath=//section[@id='summary']/div/div/div[2]/div[2]/p", "xpath:idRelative"],
+        ["xpath=//div[2]/p", "xpath:position"],
+        ["xpath=//p[contains(.,'Hongkong CURA Healthcare Center')]", "xpath:innerText"]
+      ],
+      "value": "Hongkong CURA Healthcare Center"
+    }, {
+      "id": "0c44c53e-1cb8-4e41-820c-48f07bb9487f",
+      "comment": "",
+      "command": "assertText",
+      "target": "id=hospital_readmission",
+      "targets": [
+        ["id=hospital_readmission", "id"],
+        ["css=#hospital_readmission", "css:finder"],
+        ["xpath=//p[@id='hospital_readmission']", "xpath:attributes"],
+        ["xpath=//section[@id='summary']/div/div/div[3]/div[2]/p", "xpath:idRelative"],
+        ["xpath=//div[3]/div[2]/p", "xpath:position"],
+        ["xpath=//p[contains(.,'No')]", "xpath:innerText"]
+      ],
+      "value": "No"
+    }, {
+      "id": "3ea5ee42-7362-4dca-aee5-a6e59a48c5e1",
+      "comment": "",
+      "command": "assertText",
+      "target": "id=program",
+      "targets": [
+        ["id=program", "id"],
+        ["css=#program", "css:finder"],
+        ["xpath=//p[@id='program']", "xpath:attributes"],
+        ["xpath=//section[@id='summary']/div/div/div[4]/div[2]/p", "xpath:idRelative"],
+        ["xpath=//div[4]/div[2]/p", "xpath:position"],
+        ["xpath=//p[contains(.,'None')]", "xpath:innerText"]
+      ],
+      "value": "None"
+    }, {
+      "id": "7f660049-9b6b-43e6-a4e1-777281d5b306",
+      "comment": "",
+      "command": "assertText",
+      "target": "id=visit_date",
+      "targets": [
+        ["id=visit_date", "id"],
+        ["css=#visit_date", "css:finder"],
+        ["xpath=//p[@id='visit_date']", "xpath:attributes"],
+        ["xpath=//section[@id='summary']/div/div/div[5]/div[2]/p", "xpath:idRelative"],
+        ["xpath=//div[5]/div[2]/p", "xpath:position"],
+        ["xpath=//p[contains(.,'04/04/2024')]", "xpath:innerText"]
+      ],
+      "value": "04/04/2024"
+    }, {
+      "id": "71cac396-7ad8-4768-98ee-99e34dcccf03",
+      "comment": "",
+      "command": "click",
+      "target": "id=comment",
+      "targets": [
+        ["id=comment", "id"],
+        ["css=#comment", "css:finder"],
+        ["xpath=//p[@id='comment']", "xpath:attributes"],
+        ["xpath=//section[@id='summary']/div/div/div[6]/div[2]/p", "xpath:idRelative"],
+        ["xpath=//div[6]/div[2]/p", "xpath:position"],
+        ["xpath=//p[contains(.,'Comment')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e1cc20ec-2766-4d32-a2f4-241e62d5642d",
+      "comment": "",
+      "command": "assertText",
+      "target": "id=comment",
+      "targets": [
+        ["id=comment", "id"],
+        ["css=#comment", "css:finder"],
+        ["xpath=//p[@id='comment']", "xpath:attributes"],
+        ["xpath=//section[@id='summary']/div/div/div[6]/div[2]/p", "xpath:idRelative"],
+        ["xpath=//div[6]/div[2]/p", "xpath:position"],
+        ["xpath=//p[contains(.,'Comment')]", "xpath:innerText"]
+      ],
+      "value": "Comment"
+    }, {
+      "id": "94a7653f-7be3-4c97-9767-ea464303a609",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Go to Homepage",
+      "targets": [
+        ["linkText=Go to Homepage", "linkText"],
+        ["css=.btn-default", "css:finder"],
+        ["xpath=//a[contains(text(),'Go to Homepage')]", "xpath:link"],
+        ["xpath=//section[@id='summary']/div/div/div[7]/p/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://katalon-demo-cura.herokuapp.com/')]", "xpath:href"],
+        ["xpath=//p/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Go to Homepage')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "271def25-0f89-4815-b9a5-3d372ae2fdb8",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h1",
+      "targets": [
+        ["css=h1", "css:finder"],
+        ["xpath=//header[@id='top']/div/h1", "xpath:idRelative"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'CURA Healthcare Service')]", "xpath:innerText"]
+      ],
+      "value": "CURA Healthcare Service"
+    }, {
+      "id": "8b8d830b-f372-4c25-a123-1c374a3e220f",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h2",
+      "targets": [
+        ["css=h2", "css:finder"],
+        ["xpath=//section[@id='appointment']/div/div/div/h2", "xpath:idRelative"],
+        ["xpath=//h2", "xpath:position"],
+        ["xpath=//h2[contains(.,'Make Appointment')]", "xpath:innerText"]
+      ],
+      "value": "Make Appointment"
+    }, {
+      "id": "623e7e18-37d5-4044-90bb-47f835c9e82c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-bars",
+      "targets": [
+        ["css=.fa-bars", "css:finder"],
+        ["xpath=//a[@id='menu-toggle']/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a2b9fcb6-453b-4c6f-ad4d-b38bef4c818c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Logout",
+      "targets": [
+        ["linkText=Logout", "linkText"],
+        ["css=li:nth-child(6) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Logout')]", "xpath:link"],
+        ["xpath=(//a[@onclick=\"$('#menu-close').click();\"])[5]", "xpath:attributes"],
+        ["xpath=//nav[@id='sidebar-wrapper']/ul/li[5]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'authenticate.php?logout')]", "xpath:href"],
+        ["xpath=//li[5]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Logout')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "d1515a00-b6c3-4486-a767-6d37e8f606e5",
+    "name": "BasicFunctionalities",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["9a3ffa1e-1043-40ac-85de-7bcd34023bc8"]
+  }],
+  "urls": ["https://katalon-demo-cura.herokuapp.com/"],
+  "plugins": []
+}
