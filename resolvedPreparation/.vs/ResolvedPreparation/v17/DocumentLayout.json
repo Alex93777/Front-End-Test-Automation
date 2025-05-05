@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\workingwithwebtables\\tabletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|solutionrelative:workingwithwebtables\\tabletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\workingwithwebtables\\testdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|solutionrelative:workingwithwebtables\\testdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19746F7B-4927-4C68-8025-8B05F8F37D81}|HandlingFormInputs\\HandlingFormInputs.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\handlingforminputs\\handlingforminputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19746F7B-4927-4C68-8025-8B05F8F37D81}|HandlingFormInputs\\HandlingFormInputs.csproj|solutionrelative:handlingforminputs\\handlingforminputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19746F7B-4927-4C68-8025-8B05F8F37D81}|HandlingFormInputs\\HandlingFormInputs.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\handlingforminputs\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19746F7B-4927-4C68-8025-8B05F8F37D81}|HandlingFormInputs\\HandlingFormInputs.csproj|solutionrelative:handlingforminputs\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19746F7B-4927-4C68-8025-8B05F8F37D81}|HandlingFormInputs\\HandlingFormInputs.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\handlingforminputs\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19746F7B-4927-4C68-8025-8B05F8F37D81}|HandlingFormInputs\\HandlingFormInputs.csproj|solutionrelative:handlingforminputs\\datepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12716EE8-6FA4-4218-98D6-64775BF4C04E}|DropDownPractice\\DropDownPractice.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\dropdownpractice\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12716EE8-6FA4-4218-98D6-64775BF4C04E}|DropDownPractice\\DropDownPractice.csproj|solutionrelative:dropdownpractice\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12716EE8-6FA4-4218-98D6-64775BF4C04E}|DropDownPractice\\DropDownPractice.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\dropdownpractice\\dropdowntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12716EE8-6FA4-4218-98D6-64775BF4C04E}|DropDownPractice\\DropDownPractice.csproj|solutionrelative:dropdownpractice\\dropdowntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19746F7B-4927-4C68-8025-8B05F8F37D81}|HandlingFormInputs\\HandlingFormInputs.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\handlingforminputs\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19746F7B-4927-4C68-8025-8B05F8F37D81}|HandlingFormInputs\\HandlingFormInputs.csproj|solutionrelative:handlingforminputs\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC9962D-20C4-462E-A156-F9D354C5572C}|CalculatorDataDriven\\CalculatorDataDriven.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\calculatordatadriven\\calculatordatadriven.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEC9962D-20C4-462E-A156-F9D354C5572C}|CalculatorDataDriven\\CalculatorDataDriven.csproj|solutionrelative:calculatordatadriven\\calculatordatadriven.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\workingwithwebtables\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|solutionrelative:workingwithwebtables\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC9962D-20C4-462E-A156-F9D354C5572C}|CalculatorDataDriven\\CalculatorDataDriven.csproj|d:\\qa\\front-end test automation\\front-end test automation\\resolvedpreparation\\resolvedpreparation\\calculatordatadriven\\calculatordatadriventests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC9962D-20C4-462E-A156-F9D354C5572C}|CalculatorDataDriven\\CalculatorDataDriven.csproj|solutionrelative:calculatordatadriven\\calculatordatadriventests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculatorDataDriven.csproj",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\CalculatorDataDriven\\CalculatorDataDriven.csproj",
+              "RelativeDocumentMoniker": "CalculatorDataDriven\\CalculatorDataDriven.csproj",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\CalculatorDataDriven\\CalculatorDataDriven.csproj",
+              "RelativeToolTip": "CalculatorDataDriven\\CalculatorDataDriven.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T11:29:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\WorkingWithWebTables\\ReadMe.txt",
+              "RelativeDocumentMoniker": "WorkingWithWebTables\\ReadMe.txt",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\WorkingWithWebTables\\ReadMe.txt",
+              "RelativeToolTip": "WorkingWithWebTables\\ReadMe.txt",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-01T11:29:34.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\HandlingFormInputs\\ReadMe.txt",
+              "RelativeDocumentMoniker": "HandlingFormInputs\\ReadMe.txt",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\HandlingFormInputs\\ReadMe.txt",
+              "RelativeToolTip": "HandlingFormInputs\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-01T11:29:34.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestDataGenerator.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\WorkingWithWebTables\\TestDataGenerator.cs",
+              "RelativeDocumentMoniker": "WorkingWithWebTables\\TestDataGenerator.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\WorkingWithWebTables\\TestDataGenerator.cs",
+              "RelativeToolTip": "WorkingWithWebTables\\TestDataGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:29:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculatorDataDrivenTests.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\CalculatorDataDriven\\CalculatorDataDrivenTests.cs",
+              "RelativeDocumentMoniker": "CalculatorDataDriven\\CalculatorDataDrivenTests.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\CalculatorDataDriven\\CalculatorDataDrivenTests.cs",
+              "RelativeToolTip": "CalculatorDataDriven\\CalculatorDataDrivenTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:29:34.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\DropDownPractice\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "DropDownPractice\\GlobalUsings.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\DropDownPractice\\GlobalUsings.cs",
+              "RelativeToolTip": "DropDownPractice\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:29:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DropDownTests.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\DropDownPractice\\DropDownTests.cs",
+              "RelativeDocumentMoniker": "DropDownPractice\\DropDownTests.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\DropDownPractice\\DropDownTests.cs",
+              "RelativeToolTip": "DropDownPractice\\DropDownTests.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwE0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:29:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableTests.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\WorkingWithWebTables\\TableTests.cs",
+              "RelativeDocumentMoniker": "WorkingWithWebTables\\TableTests.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\WorkingWithWebTables\\TableTests.cs",
+              "RelativeToolTip": "WorkingWithWebTables\\TableTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:29:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatePicker.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\HandlingFormInputs\\DatePicker.cs",
+              "RelativeDocumentMoniker": "HandlingFormInputs\\DatePicker.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\HandlingFormInputs\\DatePicker.cs",
+              "RelativeToolTip": "HandlingFormInputs\\DatePicker.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:29:34.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\HandlingFormInputs\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "HandlingFormInputs\\GlobalUsings.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\HandlingFormInputs\\GlobalUsings.cs",
+              "RelativeToolTip": "HandlingFormInputs\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:29:34.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandlingFormInputs.cs",
+              "DocumentMoniker": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\HandlingFormInputs\\HandlingFormInputs.cs",
+              "RelativeDocumentMoniker": "HandlingFormInputs\\HandlingFormInputs.cs",
+              "ToolTip": "D:\\QA\\Front-End Test Automation\\Front-End Test Automation\\resolvedPreparation\\ResolvedPreparation\\HandlingFormInputs\\HandlingFormInputs.cs",
+              "RelativeToolTip": "HandlingFormInputs\\HandlingFormInputs.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:29:34.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
